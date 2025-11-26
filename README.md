@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreya</h1>
 <h3 align="center">Embedded Engineer</h3>
 
-- 🔭 I’m currently working on **Autonomous Rover with Robotic Arm**
+- 🔭 I’m currently working on **Embedded Systems**
 
 - 🌱 I’m currently learning **Firmware Development**
 
